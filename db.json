@@ -1,0 +1,281 @@
+{
+  "lastUpdate": {
+    "data": "07.02.2019",
+    "time": "15:13:42"
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Владимир",
+      "lastName": "Кононенко",
+      "email": "vladimir.kononenko@gmail.com",
+      "photoURL": "https://cdn.pixabay.com/photo/2016/03/31/19/58/avatar-1295429_960_720.png"
+    },
+    {
+      "id": 2,
+      "name": "Никита",
+      "lastName": "Терещенко",
+      "email": "nikita.tereshenko@gmail.com",
+      "photoURL": "https://i.pinimg.com/originals/3d/47/4f/3d474f82ff71595e8081f9a120892ae8.gif"
+    },
+    {
+      "id": 3,
+      "name": "Tim",
+      "lastName": "Wagner",
+      "email": "timVagner@gmail.com",
+      "photoURL": "https://vignette.wikia.nocookie.net/yogscast/images/8/8a/Avatar_Turps_2015.jpg"
+    },
+    {
+      "id": 4,
+      "name": "James",
+      "lastName": "Bond",
+      "email": "jamesBond@gmail.com",
+      "photoURL": "https://vignette2.wikia.nocookie.net/yogscast/images/5/59/Avatar_Lewis_2015.png"
+    }
+  ],
+  "posts": [
+    {
+      "userId": 2,
+      "date": "05.08.2018",
+      "time": "10:34:15",
+      "title": "New title post",
+      "body": "New text post",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "postId": 2,
+      "date": "05.08.2018",
+      "time": "10:54:15",
+      "id": 2,
+      "title": "Автопробег",
+      "body": "Завтра планируется автопробег. Участвовать могут все желающие"
+    },
+    {
+      "userId": 2,
+      "date": "05.08.2018",
+      "time": "10:12:15",
+      "title": "*Бетономешалка",
+      "body": "Это жесть. Собираюсь купить. Лучше, чем АК!",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "date": "05.08.2018",
+      "time": "10:43:15",
+      "userId": 3,
+      "title": "JS",
+      "body": "Look here - there are some samples"
+    },
+    {
+      "userId": 3,
+      "date": "05.08.2018",
+      "time": "10:21:15",
+      "title": "XMLHttpRequest",
+      "body": "Method POST",
+      "id": 8
+    },
+    {
+      "date": "04.02.2019",
+      "time": "20:27:58",
+      "userId": 1,
+      "body": "asdsf",
+      "id": 9
+    },
+    {
+      "date": "04.02.2019",
+      "time": "20:30:33",
+      "userId": 3,
+      "body": "fdasfds",
+      "id": 10
+    },
+    {
+      "date": "04.02.2019",
+      "time": "20:36:12",
+      "userId": 3,
+      "body": "fdasfdsfefew",
+      "id": 11
+    },
+    {
+      "date": "04.02.2019",
+      "time": "20:41:21",
+      "userId": 2,
+      "body": "dasdas",
+      "id": 12
+    },
+    {
+      "date": "05.02.2019",
+      "time": "0:25:47",
+      "userId": 1,
+      "body": "fdgsdfg",
+      "id": 13
+    },
+    {
+      "date": "05.02.2019",
+      "time": "0:25:49",
+      "userId": 1,
+      "body": "fdgsdfgfds",
+      "id": 14
+    },
+    {
+      "date": "05.02.2019",
+      "time": "0:25:51",
+      "userId": 1,
+      "body": "fdgsdfgfdssda",
+      "id": 15
+    },
+    {
+      "date": "05.02.2019",
+      "time": "0:27:28",
+      "userId": 2,
+      "body": "выфаа",
+      "id": 18
+    },
+    {
+      "date": "05.02.2019",
+      "time": "0:27:30",
+      "userId": 2,
+      "body": "выфаар",
+      "id": 19
+    },
+    {
+      "date": "05.02.2019",
+      "time": "0:27:31",
+      "userId": 2,
+      "body": "выфаарапрап",
+      "id": 20
+    },
+    {
+      "date": "05.02.2019",
+      "time": "0:27:32",
+      "userId": 2,
+      "body": "выфаарапрапрпа",
+      "id": 21
+    },
+    {
+      "date": "05.02.2019",
+      "time": "0:27:33",
+      "userId": 2,
+      "body": "выфаарапрапрпапа",
+      "id": 22
+    },
+    {
+      "date": "05.02.2019",
+      "time": "0:27:34",
+      "userId": 2,
+      "body": "выфаарапрапрпапаапр",
+      "id": 23
+    },
+    {
+      "date": "05.02.2019",
+      "time": "0:27:34",
+      "userId": 2,
+      "body": "выфаарапрапрпапаапра",
+      "id": 24
+    },
+    {
+      "date": "05.02.2019",
+      "time": "0:27:35",
+      "userId": 2,
+      "body": "выфаарапрапрпапаапрапары",
+      "id": 25
+    },
+    {
+      "date": "05.02.2019",
+      "time": "0:27:36",
+      "userId": 2,
+      "body": "выфаарапрапрпапаапрапарыпры",
+      "id": 26
+    },
+    {
+      "date": "05.02.2019",
+      "time": "0:27:48",
+      "userId": 1,
+      "body": "2342543 павравукеукваыпва",
+      "id": 27
+    },
+    {
+      "date": "07.02.2019",
+      "time": "13:58:08",
+      "userId": 1,
+      "body": "kkdfksdfklsdfkl",
+      "id": 31
+    },
+    {
+      "date": "07.02.2019",
+      "time": "13:58:23",
+      "userId": 1,
+      "body": "fsadsdafz",
+      "id": 32
+    },
+    {
+      "date": "07.02.2019",
+      "time": "14:20:48",
+      "userId": 1,
+      "body": "fsdswws",
+      "id": 33
+    },
+    {
+      "date": "07.02.2019",
+      "time": "14:20:53",
+      "userId": 1,
+      "body": "fsdswwskjfke",
+      "id": 34
+    },
+    {
+      "date": "07.02.2019",
+      "time": "14:20:57",
+      "userId": 1,
+      "body": "kfdkldehhe",
+      "id": 35
+    },
+    {
+      "date": "07.02.2019",
+      "time": "14:21:04",
+      "userId": 1,
+      "body": "lcfjkjdjhmd",
+      "id": 36
+    },
+    {
+      "date": "07.02.2019",
+      "time": "14:36:30",
+      "userId": 1,
+      "body": "kfjfdkl",
+      "id": 37
+    },
+    {
+      "date": "07.02.2019",
+      "time": "15:11:39",
+      "userId": 3,
+      "body": "jfhjsdd",
+      "id": 38
+    },
+    {
+      "date": "07.02.2019",
+      "time": "15:13:42",
+      "userId": 3,
+      "body": "sdksfkllls",
+      "id": 47
+    }
+  ],
+  "comments": [
+    {
+      "postId": 1,
+      "id": 2,
+      "userId": 3,
+      "body": "It's really wonder!"
+    },
+    {
+      "postId": 2,
+      "id": 3,
+      "userId": 2,
+      "body": "Ударим автопробегом по бездорожью и разгильдяйству!"
+    },
+    {
+      "postId": 1,
+      "userId": 1,
+      "body": "Good for you! Test2223",
+      "id": 4
+    }
+  ]
+}
