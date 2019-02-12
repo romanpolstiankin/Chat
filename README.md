@@ -1,1 +1,2 @@
-It is little chat. Made by locolhost:3000
+It is little chat. Made by localhost:3000
+
